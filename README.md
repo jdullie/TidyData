@@ -1,5 +1,6 @@
 # TidyData
 Assignment for Week 4 Getting and Cleaning Data
+
 You should create one R script called run_analysis.R that does the following.
 
 1.  Merges the training and the test sets to create one data set.
